@@ -1,4 +1,9 @@
 # bsep-ra-2024-tim-15
+# Authors
+Anđela Đorđević
+Nina Batranović
+Tamara Miljević
+Adrian Antonić
 
 # Task Objective
 
